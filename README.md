@@ -70,7 +70,12 @@ Podemos disparar distintas acciones desde las filas de la tabla.
 - Desde las filas azules se puede clasificar TODOS los archivos de un mismo álbum como ✍️ Firmados o 🎼 INSTRUMENTAL
 - Desde las columnas AUDIO y .LRC de la tabla, haciendo click en sus archivos corresponientes, pueden descargarse esos archivos al disco local.  
   
-- El **Botón “EDITAR”** en la fila de cada archivo individual, abre un EDITOR completo, para crear o reparar cualquier archivo    
+- El **Botón “EDITAR”** en la fila de cada archivo individual, abre un EDITOR completo, para crear o reparar cualquier archivo. Para aprender como usar el editor
+  puedes descargar el manual de uso.
+
+  ## 📖 Manual de uso
+Puedes descargar el manual completo aquí:  
+[Descargar manual de uso](docs/manual-uso-editor-lrc.pdf)    
   
 
 ---
