@@ -168,4 +168,4 @@ MIT License
 
 El siguiente ejemplo muestra un reporte generado por **LRC Checker v2.0.0**, donde se resumen los resultados del escaneo de la biblioteca:
 
-![Captura de pantalla del informe](https://github.com/Oct4vyus/lrc-checker-jellyfin-navidrome/raw/main/docs/imagenes/lrc-checker-report.png)
+![Captura de pantalla del informe]([https://github.com/Oct4vyus/lrc-checker-dockerhub)/raw/main/docs/imagenes/lrc-checker-report.png)
