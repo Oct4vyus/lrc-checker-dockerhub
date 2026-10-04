@@ -1,4 +1,5 @@
-- [Spanish](README.md)
+- [Español](README.md)
+- [English](#english)
 
 # 🎵 LRC Checker
 
@@ -164,7 +165,7 @@ MIT License
 ## 🌐 Community
 
 If you want to swap LRC files, share experiences, or ask for help, you can join the Telegram group:
-- https://t.me/+Vzi9agLuVyo2MDcx
+- https://t.me/+WwUZTPE8C1phZDYx
 
 ## Screenshot of the report
 
