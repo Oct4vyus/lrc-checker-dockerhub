@@ -66,11 +66,11 @@ Sino se establece otra, Oct4vyus Kandle es la firma por defecto.
 
 ## ✨ Interactuar con la tabla de resultados
 Podemos disparar distintas acciones desde las filas de la tabla.
-- Las filas azules clasifican los archivos por álbums completos. Debajo de ellas se puede ver y editar cada archivo individual del álbum con el boton “EDITAR”.  
+- Las filas azules clasifican los archivos por álbums completos. Debajo de ellas se puede ver y editar cada archivo individual del álbum con el botón “EDITAR”.  
 - Desde las filas azules se puede clasificar TODOS los archivos de un mismo álbum como ✍️ Firmados o 🎼 INSTRUMENTAL
 - Desde las columnas AUDIO y .LRC de la tabla, haciendo click en sus archivos corresponientes, pueden descargarse esos archivos al disco local.  
   
-- El **Botón “EDITAR”** en la fila de cada archivo individual, abre un EDITOR completo, para crear o reparar cualquier archivo `.lrc`.
+- El **botón “EDITAR”** en la fila de cada archivo individual, abre un EDITOR completo, para crear o reparar cualquier archivo `.lrc`.
 
 Para mas detalles de como usar el editor puedes descargar el manual de uso.
 
