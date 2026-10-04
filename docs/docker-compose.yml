@@ -1,0 +1,44 @@
+services:
+  lrc-checker:
+    image: oct4vyus/lrc-checker:latest
+    container_name: lrc-checker
+    restart: unless-stopped
+
+    # Variables de entorno configurables
+    environment:
+      # Define tu zona horaria
+      - TZ=America/Argentina/Cordoba
+      # Define las variables PUID/PGID. Pon el usuario / grupo que tendrá permisos para editar los LRC
+      - PUID=0
+      - PGID=0
+      # Directorio donde está tu música (dentro del contenedor)
+      - MUSIC_DIR=/music
+      # Directorio donde se guardarán los reportes
+      - OUTPUT_DIR=/reports
+      # Diferencia a partir de la cual se considera error real (no posible final musical)
+      - REVIEW_THRESHOLD_SEC=60.0
+      # Verificar archivos .lrc que no tengan audio correspondiente
+      - CHECK_ORPHANS=true
+      # Mostrar progreso detallado en los logs
+      - VERBOSE=true
+      - SERVER_URL=http://CAMBIAR-POR-IP-DE-TU-SERVIDOR:8080
+      # Lo que ingreses después del = sera la firma
+      - SIGNED_MARKER=Oct4vyus Kandle
+      # Opcional. Si no la ponés, se usa "Oct4vyus Kandle"
+
+    # Volúmenes: monta tu biblioteca de música y directorio de reportes
+    volumes:
+      # CAMBIA ESTA RUTA por la ruta real de tu biblioteca de música
+      - /ruta/a/tu/musica:/music:rw
+      # Directorio donde se guardarán los reportes (JSON y HTML)
+      - ./reports:/reports
+
+    ports:
+      - "8080:8080" # Cambiá el puerto si lo necesitás
+
+    # Opcional: limitar recursos
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '0.5'
+    #       memory: 256M
