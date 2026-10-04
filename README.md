@@ -170,8 +170,18 @@ En bibliotecas grandes puede tardar. Al finalizar muestra:
 📜 Licencia
 MIT License
 
+## 🌐 Comunidad y colaboración
+
+Para intercambiar archivos LRC, compartir experiencias y resolver dudas, podés sumarte a nuestros canales de Telegram:
+- https://t.me/+Vzi9agLuVyo2MDcx
+
+
 ## Captura de pantalla del informe
 
-El siguiente ejemplo muestra un reporte generado por **LRC Checker v2.0.0**, donde se resumen los resultados del escaneo de la biblioteca:
+El siguiente ejemplo muestra un reporte generado por **LRC Checker v6.2.0**, donde se resumen los resultados del escaneo de la biblioteca:
 
 ![Captura de pantalla del informe](https://github.com/Oct4vyus/lrc-checker-dockerhub/raw/main/docs/imagenes/lrc-checker-report.png)
+
+🌐 Comunidad
+Para intercambiar archivos LRC, compartir experiencias y resolver dudas, podés sumarte a nuestros canales de Telegram:
+https://t.me/+Vzi9agLuVyo2MDcx
