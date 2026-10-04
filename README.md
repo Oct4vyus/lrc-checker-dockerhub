@@ -182,6 +182,10 @@ El siguiente ejemplo muestra un reporte generado por **LRC Checker v6.2.0**, don
 
 ![Captura de pantalla del informe](https://github.com/Oct4vyus/lrc-checker-dockerhub/raw/main/docs/imagenes/lrc-checker-report.png)
 
-🌐 Comunidad
-Para intercambiar archivos LRC, compartir experiencias y resolver dudas, podés sumarte a nuestros canales de Telegram:
-https://t.me/+Vzi9agLuVyo2MDcx
+## 💖 Financiamiento
+Si querés apoyar el proyecto, podés hacerlo a través de:
+
+
+- TRON: TN6foPkepP2qBqKQHsu1T2rDeYgm5uTThN
+
+- BNB Chain: 0x8916c1b53Cc039672066bc4A297aa048CC7f1ae3
