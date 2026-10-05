@@ -1,7 +1,14 @@
+
 - [Español](#español)
 - [English](#english)
 
 # 🎵 LRC Checker Herramienta Completa
+
+[![Versión en Docker Hub](https://img.shields.io/docker/v/oct4vyus/lrc-checker?sort=semver&label=Imagen)](https://hub.docker.com/r/oct4vyus/lrc-checker/tags)
+[![Descargas Docker Hub](https://img.shields.io/docker/pulls/oct4vyus/lrc-checker?logo=docker&label=Descargas)](https://hub.docker.com/r/oct4vyus/lrc-checker)
+[![Tamaño de imagen](https://img.shields.io/docker/image-size/oct4vyus/lrc-checker/latest?logo=docker&label=Tama%C3%B1o)](https://hub.docker.com/r/oct4vyus/lrc-checker)
+[![Último release](https://img.shields.io/github/v/release/Oct4vyus/lrc-checker-dockerhub?display_name=tag&label=Lanzamiento)](https://github.com/Oct4vyus/lrc-checker-dockerhub/releases/latest)
+[![Licencia](https://img.shields.io/github/license/Oct4vyus/lrc-checker-dockerhub?label=Licencia)](https://github.com/Oct4vyus/lrc-checker-dockerhub/blob/main/LICENSE)
 
 ## Español
 
