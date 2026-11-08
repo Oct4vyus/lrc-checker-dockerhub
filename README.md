@@ -211,7 +211,11 @@ Si querés apoyar el proyecto, podés hacerlo a través de:
 - [Español](#español)
 - [English](#english)
 
-# 🎵 LRC Checker
+<p align="center">
+  <img src="docs/logo/lrc-checker-Logo7.png" alt="LRC CHECKER Logo" width="100">
+</p>
+
+# LRC Checker
 
 If you love listening to music from your own server and you actually care about the lyrics, you know the story.
 You install a few apps, add some plugins, and suddenly you’re dealing with missing lyrics, out-of-sync lines, weird versions, and tracks that don’t match the real song.
