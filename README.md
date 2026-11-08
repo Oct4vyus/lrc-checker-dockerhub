@@ -2,7 +2,11 @@
 - [Español](#español)
 - [English](#english)
 
-# 🎵 LRC Checker Herramienta Completa
+<p align="center">
+  <img src="docs/logo/lrc-checker-Logo7.png" alt="LRC CHECKER Logo" width="100">
+</p>
+
+# LRC Checker Herramienta Completa
 
 [![Versión en Docker Hub](https://img.shields.io/docker/v/oct4vyus/lrc-checker?sort=semver&label=Imagen)](https://hub.docker.com/r/oct4vyus/lrc-checker/tags)
 [![Descargas Docker Hub](https://img.shields.io/docker/pulls/oct4vyus/lrc-checker?logo=docker&label=Descargas)](https://hub.docker.com/r/oct4vyus/lrc-checker)
